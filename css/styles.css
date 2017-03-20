@@ -1,0 +1,7 @@
+* {  margin:0;  padding:0;}
+html,body {  width:100vw;  height:100vh;}
+body{  font-size: 40pt;}
+#container {  float:left;  padding-left:2.5vw;  padding-bottom:2.5vw;  }
+#container div {  text-align:center;  float:left;  width:30vw;  height:30vw;  background-color:Orange;  border-radius:15%;  margin:2.5vw 2.5vw 0 0;}
+.div4 {  clear:left;}
+.div7 {  clear:left;}
